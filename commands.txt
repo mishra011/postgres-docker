@@ -86,3 +86,20 @@ $ \?
 14) Quit psql
 
 $ \q
+
+
+################
+
+Login into pgadmin4 using email and password in .env
+
+We have logged into our Pgadmin4 client, 
+now we need to connect to the PostgreSQL database server instance by clicking on the Add New Server icon on the screen.
+
+After supplying the environment variables peculiar to the PostgreSQL instance to the client,
+ we would click on the Save icon on the top right bottom corner of the screen.
+
+ https://www.enterprisedb.com/blog/query-tool-vs-viewedit-data-pgadmin-4
+ https://stackoverflow.com/questions/18407042/how-to-visualize-database-tables-in-postgresql-using-pgadmin
+ https://medium.com/towards-data-engineering/running-a-postgresql-and-pgadmin4-instance-using-docker-compose-c6dd6e6e03bb
+
+ 
